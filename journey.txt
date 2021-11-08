@@ -644,7 +644,47 @@ This is the list of the things which gave me joy but I have to burn/suspend them
 4 because this happiness is fake. This happiness is very shorlive. When i try to enjoy this happiness than suddenly i find that this happiness i over and great sorrow has buegun.
 5 love is only a breakage in my dream now. After my dream i can go for love.
 
+8/11
+	-> There is a financial plan i built last night which assures that by 2028 when i will be 29, I will become a CrorePati. Hence only the intrest of my capital will be 15LPA at that time.
+	I have a financial Plan with a tasks list which i have to complete to assure that my capital would grow atleast 1Cr by 2028.
+
+	-> Financial Plan:
+	My annual income | shop annual income | total income | intrest of prev year | cf(capital)
+	BTE 2021 -> 2l    0     2l    0    2l
+	BTE 2022 -> 5l    2l    7l    0    7l
+	BTE 2023 -> 6l    1l    7l    1l   15l
+	BTE 2024 -> 8l    5l    12l   2l   30l
+	BTE 2025 -> 9l    2l    11l   4l   45l
+	BTE 2026 -> 10l   2l    12l   5l   62l
+	BTE 2027 -> 11l   3l    14l   9l   85l
+	BTE 2028 -> 12l   5l    17l   12l  1.14Cr
+	Abbrevation used->By the end of: BTE
+
+	-> Goals Roadmap:
 	
+	|
+	0--Nov21 Blockchain & web3 & Morning routine with litDSA.
+	|
+	0--Dec21 Smart contracts of buffer & buffer backend & Morning routine with litDSA.
+	|
+	| DSALGO
+	|
+	0--Apr21 Apply to companies.
+	|
+	0--Jul New Company Joining.
+	|
+	|
+	--This gives bump of 5l additional income to my annual income.
+	
+	->Points to remember
+		->NoFap duration 90 days.
+		->No chicken until baba balak nath.
+		->Whole plan depends upon my efforts till year 2022 i.e 8Nov - 31Jul i.e 260days.
+		->1day-min value : 1Cr/260days = 38461Rs i.e 1000Rs/hour ~ 30Rs/min.
+		->1 min waste i.e 30Rs gone. 1 min spent productively i.e 30Rs credited with intrest.
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 utube channels:-
 -->for CP

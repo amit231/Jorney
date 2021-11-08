@@ -1,0 +1,42 @@
+29/10
+Task: Mobile sidebar bug (2/1):
+Problem:
+Earlier we was using localStorage to save state of sidebar
+In desktop : works fine
+In Mobile : works fine, No one sees opened sidebar for mobile because in mobile noone left the page with sidebar opened, everyone left with sidebar closed so nothing caused that instant toggle of sidebar state when load because isSidebar open remain always false with page load
+But then We want different default states for web(open by dafault) and mobile(close by default) for the sidebar.
+1st Solution (with another problem):
+We set the default state in JS by using "useMediaQuery" hook that MUI provides, but it has a bug that in first render (SSR only) this hook always returns false irrespective of the correct media query value.
+We thought that we will use plain window object for detecting the width, but in nextjs window is only awaylable after component mounting in CDM.
+So we set a placeholder default state initially and than update the state once CDM is called. But this process is not in-sync. There was a delay between "initial default state" and CDM's updated state. This produce a glitch in Mobiles when page initially loads for about 500-600ms
+2nd Solution (css way):
+In this case CSS has a edge over JS because its media queries are available before the Page/Component mounts, unlike JS way where we have to wait for CDM to update the state,
+So now there is only one default state(true) but that state's meaning is different for desktop and mobile, mobile take true as closed sidebar and desktop take it as opened sidebar.
+For this we have to do following css change:
+Sidebar toggle Icon
+Container
+Icons
+Names
+Sidebar Footer
+Also added some transitions on mobile.
+
+1/11
+Task:Twitter Redirection(0.5)
+Problem: Figure out how to redirect user to "create feed" with prefilled url and text
+Solution: https://stackoverflow.com/questions/6208363/sharing-a-url-with-a-query-string-on-twitter
+
+Task: Product Study(3)
+Notes are  in "ProductStudy" doc
+
+Task: Dynamic referral routes for PredictionGame and options(0.5/2.5)
+Problem: Learn dynamic routes on nextjs
+Solution: In nextjs doc, Next/router chapter.
+
+2/11
+
+Task: Data alignment around " : " and monospace font(3) 
+Wrap all keys and all values in separate div. Make a separate reusable component for that
+
+
+Task: mono font
+4:49
