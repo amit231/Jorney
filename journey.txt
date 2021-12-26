@@ -196,7 +196,7 @@ he has offered me:
 5/8	
 	>today is my 6th-7th day of noFap and i feel much energized than before. I continue my noFap upto 2nd review (can be break on special occasions)
 	>i start my real practicing of 900 - 1000 difficulty problems and react in dev also
- 	>next vow is to "dont overthink unnecessary things", also to "eat less on nights".
+ 	>next vow is to "dont overthink unnecessary things", also to "eat less on nights and early mornings".
 
 13/8, 
 	>today my favourite phone died. He also gave me a learning that, for overcoming silly mistakes(laaparwaahi) always think of the worst case scenerios of thing u r doing. e.g-> picking my phone in the pocket that already full with my wallet, playing with a cim card may lead to lost that cim card while playing, while modifying the index var it is possible that it might get over-range i.e its value become bigger than n-1 or smaller than 0.
@@ -317,18 +317,21 @@ CP and Dev's intresting fusion help me in Long run CP for my analytical skills i
 27/12
 	I think that god has released me from all sins, all my sorrow, all my regrets, all my fears(for coding it has to be decided by today's evening) and he also put me away from the hell which was created by me for past 3 years.
 	Yesterday, i see the kitchen construction of chachi. Then i thought "how much money is needed until my wedding(just a milestone remark) which will be in next 5-6 years?" Than i do some caluculations and figure out that it requires approx 10 lac Rs(6 lac for home and 4 lac for shop) in 4 years. And i call this expense as "1 phase kharcha" in future. for me to be a eligible candidate for my wedding. For this i caluculated how much my starting salary should be? Surprisingly this comes to approx 30k starting salary which was not so difficult task for me. Because as 30k starting salaryi can save 18k easily everymonth for my 1st phase kharcha.
-
+. 
 
 
 PHASE1:(GOOD LIFE req15lac)-------
 ->SAVINGS:
 MAIN SOURCE OF SAVING IS INDIAN LOW SALARIES
+2023:
 18k*12 = 2.1 lac as my 1st year earning
 tenure savings: 2.1lac
 
+2024:
 23k*12 = 2.7 lac as my 2nd year earnings
 tenure savings: 4.8lac
 
+2025:
 Than after 3 years of studying DSALGO and 2 years of experience in my pocket i can become an FAANGy
 case 1:					case 2:
 i become the FAANGy			I not become FAANGy this time
@@ -336,6 +339,7 @@ salary : 85k				salary: 50k
 saving ; 60k*12=7.2lac			savings: 28k*12 = 3.3 lac
 tenure savings: 12 lac			tenure savings: 8.1 lac
 
+2026:
 Than after 4 years, as a FAANGY i become mid level engineer and salary +=5lac. Wherease in Case 2 i must become a faangy after 4 years of DSALGO
 case 1:					case 2:
 FAANGy mid level			FAANGy starting
@@ -397,6 +401,7 @@ ASSUMPTIONS AND ASPRATIONS(which become true at that time)
 ->SAVINGS:-
 MAIN SOURCE OF INCOME IS USA SALARY AND STOCKS
 at 28 age my savings would be 9 lac and increments at +15% for another 4 years
+27: 0 or 2lac.
 28:9
 29:11
 30:13
@@ -430,21 +435,20 @@ AT THE END GOD WILL GIFT ME:
 ->stocks for income(so dont bother about money anymore)
 ->well eshtablished Youtube Channel with healthy audience
 ->happy Life
-**************after all this he lived a peaceful life with his family and inspired thousands of childrn*******
+**************after all this he lived a peaceful life with his family and inspired thousands of children*******
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TOP POINTS TO ALWAYS KEEP IN MIND:
 ->If you train yourself without sorrow everything is achievable
 ->CODDING IS POWER WEATHER IT IS DEV OR DSALGO OR PROBLEMSOLVING
-->descipline for goal
 ->believe in god
 ->dont hesitate for hard work
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 PLAN FOR PHASE1 kharcha
 (age_range) : DEV  & DSA
 *means more important at that age_rage
-(20-21) : *Dev & night DSA(2hr) RK:Focus on dev as much as you can in day and maintain well discipline for DSA
 (21-22) : *Dev & night DSA(2hr) RK:Focus on dev as much as you can in day and maintain well discipline for DSA
 (22-23) : *DSA(4hr) & Dev(real_indutry) RK: manage time well & dont think of salary increment, if you practice well you salary goes up eventually
 (23-24) : *DSA(4hr) & Dev(real_industry) RK: push hard for DSA prep(very hard)
@@ -452,7 +456,6 @@ PLAN FOR PHASE1 kharcha
 (25-26) : Now you can think of salary
 (26-27) : Holla! you passed the test, rest all you life become happy
   
-Hughh... THIS IS ALL FOR TODAY....Never Give Up
 
 
 1/1/2021 
@@ -490,11 +493,11 @@ resolutions:
 	Today i change my ambitions little more.
 As we see, my 2 year net income be around 6 lac. Previously i saved that money. But Now i decided to invest that money, not in house, not in shop construction, But in Kamla Gift and Garments Shop.
 
-After 2 years of starting salary i have around 7lac Rs. in my hand which i spent on,
+After In 2025, 2 years of starting salary i have around 7lac Rs. in my hand which i spent on,
 ->shop fitting.(2lac)
 ->samaan : gifts and toys + garments (5lac)
 SALARY EXPECTATION: 28k(1) & 38k(2)  8lac floor() = 7lac
-=> at the age of 25 and in 2024 i have,
+=> at the age of 26 and in 2025 i have,
 -> A well designed, settled gift and garments shop. 
 -> Well planed being of Mom with that boy named anku.
 #this expense called "AARAMBH" jo hoga prachand
@@ -504,7 +507,7 @@ Than after next two years of savings i have total around 12lac of savings, which
 ->gaadi (4lac) downpayment
 ->shaadi (4lac)
 SALARY EXPECTATION: 50k(3)+60k(4) = 13lac floor() = 12lac+4lac(RD) 
-=>at the age of 27 
+=>at the age of 28 
 ->i have well settled buisness(MAKING DAD PROUD)
 ->great house
 ->gaadi
@@ -517,7 +520,7 @@ Than after next two year of savings i have total around 8lac of savings, which i
 ->joining both (2lac) 
 ->saman in dukaan (7lac)
 SALARY EXPECTATION: 60k(5) + 70k(6) = 16lac floor() = 13lac 
-=>at the age of 29 
+=>at the age of 30 
 ->i have two monster shops joint(MAKING BOTH DAD PROUD)
 ->giangantic buisness in both shops bcoz of rabb di mer
 ->a plan to execute on 2nd shop.
@@ -559,18 +562,18 @@ SHIKSHA Y H KI, """JO VYAKTI ANASHWAR(M KON HU) JAGAT KO JEEVANKAAL M NHI JAANEG
 
 10/1 
 	Around 2 days back i completed my react project by that course and until today afternoon i totally get demotivated because yesterday i call rishav and he said that css is the important thing to get a job like him. He said that "i somewhere get that job because of css and there is no substitute to css". This demotivates me like hell for past 1 day but tody i see that RD slips of our there i ses that in 2024 we get in total of 4 RDs..
-2021:3000
-2022:1500
-2023:3000+3000+500_1500
+2022:3000
+2023:1500
+2024:3000+3000+500_1500
 if i not debit a single amount from all RDs until 2024 than 
 2022->3000:2lac+1lac(2023&24 ammount)
 2023->1500:1la
 2024->3000:2lac+3000:2lac+1500:1lac
 total:3lac(22) + 1lac(23) + 5lac(24): 9lac
-if i go on job at 2022 and work for around 2 months than i estimated my savings :4lac(min_scale)
+if i go on job at 2022 and work for around 2 years than i estimated my savings :4lac(min_scale)
 total money i have on 2024 july:-9+4:13lac(min_from_mine)
 wooohhhooo at 25 i able to set up a good buisness of around 8lac of investment!!!!
-left 5 lac i spent on 1lac->manju, 1lac->Mama?karz
+left 5 lac i spent on 1lac->manju, 1lac->Mama?karz (my mama passes on oct 2021)
 left 3 lac on gaadi....
 Now i can freely work on my skills...Thanks to God
 
@@ -581,11 +584,11 @@ Now i can freely work on my skills...Thanks to God
 I make some promise to myself.
 Career: Saare plans ban gaye hein. Hame bass ab execution ki zaroorat hai aur execution k time to Career k baare m bilkul mat sochna sirf or sirf execution hi h career m ab baaki.
 Buisness: maanta hu thoda zaroori hai sochna par 3 saal k baad ki cheez k baare m abhi se hi sochna galat hai abhi socho to bass delhi se current shop k liye maal laane ki iski shuruaat hogi March m gift items and toys laane se ferr uske baad kabhi june,july m manyaari laane k liye chala jaaunga or ferr iss baar to rakhi delhi se hi aayegi. Nov m to waise hi RD nikalegi koshish karna ki wo RD saari saaman laane me lage.
-Maa ki seva karna, unki care karna, QKi 3 saal mere saath unhe bhi utna hi pashchataao karna hai jitna mujhe or bass ferr 3 saal baad 9 lac nikalenge m b atleast 5 lac to kama hi lunga 2 saal m ferr wo saara paisa dukaan m laga denge...
+Maa ki seva karna, unki care karna, QKi 3 saal mere saath unhe bhi utna hi pashchataap karna hai jitna mujhe or bass ferr 3 saal baad 9 lac nikalenge m b atleast 5 lac to kama hi lunga 2 saal m ferr wo saara paisa dukaan m laga denge...
 
 
 
-14/1 -------- 14/2 GREAT GRIEF
+14/1 to 14/2 GREAT GRIEF
 	I am little upset because all the main things which i wrote were lost. This is the most important and crucial time of my life and i just lost it. Anyway breif of the story is given as follow:
 Initially in feb me and anubav agree that we have to come togeather to achieve something in my life. I am learning React that time.I tought him also about React. We are building our stone paper scisor app. We got stuck on a firebse fuction, we are stuck to the extent where anubhav realise that we have to be togeather for this. He does the same.At that time Rodi mama came to distribute the wedding cards to everyone he choose me with my bike for transportation.
 Anbhav came to my house and we starting to plan the our doings for future. His plans are to stay at my home but not of leaving the CU. I drew a chart describing time we have and things we want to achieve is not aligning properly we are short on time and if we want to increase the time we have we want him to be migrated to CPU So we went in next bus to delhi. I remember that was very cold jorney. We arrive at anubhav's home everything went good his father also agreed for migration.
@@ -593,7 +596,7 @@ But then i dont know what happend they suddenly disagrees with our decision. It 
 
 Then anubhav came back with me, pick up all his clothes and went back to delhi. Then anubhav dissapears. I was at great depression. I remember that i start weaping in the metro and call Rishav bhai at the time of returning back to home from delhi because of sadness and greive that we are not going to be togeather and none big thing going to happen in our life.
 
-14/2 -------- 20/3 LIFE BECOME HELL
+14/2 to 20/3 LIFE BECOME HELL
 	Actual hell i am facing in that time. Ashok's launda also got a govt job. Me and anubhav are not going to be togeather that means I am not going to make any money in my life. All these things make my fell like I am in hell.
 The stretching in the throat we feel when we are stopping our weap forcefully, i feel that all day long. My appetitie is fully gone. My mother and i are always weaping. I weap each day to lower my depression with my mother.
   
@@ -603,7 +606,7 @@ I told to myself that it is sunday. Everyone is on holiday on sunday. Next day 1
 Than at next sunday i went to Mama's house for  relief. And there i got internship of Rahul Bajaj.
 Than after 2 days i got assignment of Nurturelabs I submitted on same day. They call me for interview and i passed it and got that internship at Nurturelabs which changed my life forever.
 
-21/3 ----------- 17/10
+21/3 to 17/10
 	Seven months passed. Cozmo, Tepey, WWJZD, Buffer are some contributions that i made. Now my salary is 30k, next month it becomes 42k. All money goes to my monthly savings.
 rney is full of up and downs and adventours. My bank balance is 78k and upto time of graduation it may reach 78+30+42+42+42+42+50+50+50+50 = 4.5lac.	
 
@@ -683,7 +686,72 @@ This is the list of the things which gave me joy but I have to burn/suspend them
 		->1day-min value : 1Cr/260days = 38461Rs i.e 1000Rs/hour ~ 30Rs/min.
 		->1 min waste i.e 30Rs gone. 1 min spent productively i.e 30Rs credited with intrest.
 
+22/11 
+	-> I learnt some blockchain and i am now familiar with web3. My place is strong and i am doing just OK. 
+	-> I have to learn rust for solana to amaze yash.
+	-> Have to start 5am routine.
+	-> I decided to not to have food after 4-5.
+	-> Made a plan which guarantees CrorePati@27
+	Year | Myincome | shop Income | My + shop | Interest@13.5% (prev year Grand Total) | Total | Grand Total (cfTotal)
+	21   |   2      |    0        |     2     |                 0                      |  2    |  2                                  
+	22   |   5      |    2.2      |     7.2   |                 .3                     |  7.5  |  9.5                                  
+	23   |   5.5    |    1        |     6.5   |                 1                      |  7.5  |  17                                  
+	24   |   6.5    |    5.5      |     12    |                 2                      |  14   |  31                                  
+	25   |   12.5   |    2.2      |     14.7  |                 4.3                    |  19   |  50    <--faang   12Base + 5l stocks/year                            
+	26   |   15     |    0        |     15    |                 6                      |  21   |  71                                  
+	27   |   17     |    3        |     20    |                 9                      |  29   |  1.07Cr                                  
+	
+	-> If DSA went well as Dev.
+	Year | Myincome | shop Income | My + shop | Interest@13.5% (prev year Grand Total) | Total | Grand Total (cfTotal)
+	21   |   2      |    0        |     2     |                 0                      |  2    |  2                                  
+	22   |   5      |    2.2      |     7.2   |                 .3                     |  7.5  |  9.5                                  
+	23   |   8.5    |    1        |     8.5   |                 1                      |  10.5 |  20   <-- PB 10l base + 2l stocks                             
+	24   |   11     |    5.5      |     16.5  |                 2.5                    |  19   |  39                                  
+	25   |   13.8   |    2.2      |     16    |                 5                      |  21   |  60   <-- faang   12Base + 5l stocks/year                            
+	26   |   15.6   |    0        |     15.6  |                 7.4                    |  23   |  83                                  
+	27   |   17     |    3        |     20    |                 10                     |  30   |  1.13Cr.                    
 
+30/11
+	-> Anubhav got a remote job and now his earnings will be 50k/month. He is also saying that he will come for our next plan execution i.e DSA probably in jan starting.
+	-> Yash gave me full Dec for learning crypto and Buffer contracts.
+	-> Sunny will be going for job this friday.
+	-> I changed my mindset from a "saving person" to "investor in shop" for my career starting. I'll only save after i got Job in Big PB company whose salry is atleast 1l/month.
+	-> These are my plans: (By the End of 2022 : BTE22)
+		- BTE22 I have 9.5lac which i spend for fitting + gift&garments.
+		- BTE23 I have 7.5lac which i spend for shop's 2nd story + making our 2nd shop.
+		- BTE24 I have 14lac which i fittin + samaan for 2nd shop.
+		- ---------------------after 24 i'll start my saving----------------------------
+
+
+
+4/12
+	-> Anubhav finally said "NO". And i am not waiting for him from now. And i am not going to think about this from now.
+	-> One thing for sure, giving anybody charge of my life is the biggest nonsense thing I've done with myself.
+	-> Long jorney ahead. The DSA, the Dev(job) everything i have to manage. For this i have to commit myself with work. For this i have to gone through sleepless nights and early mornings.
+	-> I must have told anubhav to not to touch my dreams ever, ever again. I've gave him all the controls and he everytime breaks my little ambitions, my little set of dreams.
+
+19/12
+	-> We(Me & Mother) started few things:
+		-Not eating at night.
+		-Break my vrat on Monday.
+		-Wake up at 5.
+	-> Game start and these are the everyday taks:
+		- 5-8 learning
+		- 8-6 Work
+	-> Lerning path 
+		-DSA with Blockchain(DSA gives me hope & Blockchain gives me money)
+		4d DSA 2dBlockchain.
+
+
+26/12
+Ferr se sab kuch fail ho gaya kuch bhi execute nahi hua. Execution ko Plan karna bekaar practice hai atleast mere liye. Ab se m seedha execution p jaaunga. Also meine ek cheez realize ki, Kee mei kaafi fantasise karta hu retirement life abhi se hi, ki dukaan hogi badi, pahad p ghar hoga and all. Y sab theek h par sirf ocassionally 2-3 mahine m ek baar soch liya. Abhi utla h roz m retirement ke baare m soch raha hu or kaam actually 2-3 mahine m ek baar ho raha hai. Retirement k baare m abhi se plan karna is a bullshit thing which i was doing. I have to stop it.
+	-> Retirement age must be > 40. Money > 2Cr is reality.
+	-> I am young. I am in my 20s, 30s it must be phase of great efforts. Not the age of plaining retirement.
+	-> It must be saving for retirement, not the plans of retirement. Because god knows what i will become in next 10-20 years than what is the point of 
+thinking and plaining of retirement.
+	-> I will invest all my money in index funds in starting not in the money not in buying temprory happiness. It will be just investment.
+	=> These small things will take all my energy & time.Plaining of Waking up, Practicing DSA, Knowing about crypto all fail. Now it is only execurtion & No planning at all. Planning will happen only when I am on the track.
+	=>"All plains which involves fantasising are bullshit".	
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 utube channels:-
@@ -744,20 +812,6 @@ utube channels:-
  ->shubhank sharma 
  ->laman
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-SONGS
--->PAHARI
- ->morni
- ->dhudu nacheya
- ->kaali ghaghri
- ->shiv kailashon (shubhsnk)
- ->shiv kailashon (laman)
- ->kuluvi mashhup
- ->chambyali mashup
- ->jogi
-
--->MUSIC
- ->dreamchanter bhrama ji
- ->shanti people
 
 -->DEVOTINAL
  ->krishna das
@@ -767,11 +821,13 @@ SONGS
  ->saar na jaana teri 
  ->harre krishna mantra Lilly H
  ->krishna das maa durga
+KD om namah shivaay
+KD hanuman chalisa
+KD maa durge
+KS radhe radhe
+KS mero radha raman
 
 -->GENERAL
-->nfak kawali 
- ->baatein yeh kabhi na
- ->iktara
 
 -->RETRO
  ->ye shaam mastani
@@ -780,13 +836,10 @@ SONGS
 -->ENGLISH
  ->let her go
 
--->RAP
- ->badla
- ->azadi
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 overview indian maths- http://www-groups.dcs.st-and.ac.uk/history/HistTopics/Indian_mathematics.html
-dindian maths- https://link.springer.com/article/10.1007/BF02836134
+indian maths- https://link.springer.com/article/10.1007/BF02836134
 
 aryabhata - "the aryabhatiya"
 brahmgupta - "brahmgupta sidhanta"
@@ -796,16 +849,6 @@ rishi baudhyana - "baudhyana sulbhsshastra"
 others-
 shukla yajurveda
 pingla for binary                
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-m ->   LA | CPP |   AI | JS
-t   ->   LA | CPP | NN | JS   
-w  -> CPP |  LA  | AR  | JS
-th -> CPP |  LA  | NN | JS
-f   ->   LA | CPP | AR  | JS
-
-now become only CP,react
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 achievements->
   ->self made dowhile quicksort 
@@ -818,28 +861,7 @@ achievements->
  ->node server with mongoDB
  ->FAS:Mongo problem with wifi
  ->hevy math question solved by me
------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
--> while(PATH === GOAL){PATH++;}
--> class PATH{
-   int meter;
-   string CP;
-   string WEb_DEv;
-   string ML;
-   while(ML==1){
-     while(WEb_DEv==1){
-          while(CP==1)
-		if(febTry==FALSE)
-			break;        //all loops can be breaked
-               CP.meter ++;
-              }
-            WEb_DEv.meter++;;
-         }
-        ML.meter++;
-}
-          
------------------------------------------------------------------------------------------------------------------------------------------------------------------
 pictures:-
 hawking,the theory of everything
 a beautiful mind
@@ -847,7 +869,6 @@ the limitation game
 creation
 currentwar
 steve jobs
------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -885,54 +906,6 @@ steve jobs
 	->explanation of logistic regr.
 	NUMPY
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-SONGS TO DOWNLOAD:-
-shiv kailash
-bhole baba
-dudhu nacheya
-deva mere
-parvat7894527915767941248498523157kangari chambyali1 tivra
-kangari chambyali2 tivra
-kangari chambyali3 tivra
-kulluvi tivra
------------------------------------------------
-phir se ud chala
-shankra
-kabir chalisa
------------------------------------------------
-KD om namah shivaay
-KD hanuman chalisa
-KD maa durge
-KS radhe radhe
-KS mero radha raman
------------------------------------------------
------------------------------------------------
-kaali ghaghri
-mann re
-piya na ja
-maye ni meriye
-tantra
-pahari song back 2 back lait
-din sajne de aaye
------------------------------------------------
-phir se ud chala
-435600
-
------------------------------------------------
-
-sites:-
-coderbyte
-CodeChef *
-LeetCode
-Sphere online judge *
-exercism (new!)
-codewars (new!)
-CodeGym [Java] (new!)
-Codepen (new!)
-CodinGame [Fun] (new!)
-URI Online (new!)
-REPLY Challenges (new!) 
 
 
 

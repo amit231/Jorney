@@ -39,4 +39,14 @@ Wrap all keys and all values in separate div. Make a separate reusable component
 
 
 Task: mono font
-4:49
+4:49 - 7:30
+
+
+8/11
+10:30
+Task: Mobile sidebar issue(0.5hr) 
+Problem : Yash says that sidebar toggle button isn't working after some redirections.
+I doesn't encounter this problem. But i think there is a 300ms slidein animation. If someone is in hurry and click toggle button in between the interval of 300ms than
+it seems to the user that sidebar isn't working.
+Fix: I reduce the delay to 70ms ease animation.
+
