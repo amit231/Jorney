@@ -1,3 +1,5 @@
+!-> means LHS nahi h to RHS
+
 cracks of universe:-
 -->youtube taught everything, without youtube i dont understand a single word,if there is no youtube specifically no tutorials,than no,one gives a shit
 
@@ -752,6 +754,49 @@ thinking and plaining of retirement.
 	-> I will invest all my money in index funds in starting not in the money not in buying temprory happiness. It will be just investment.
 	=> These small things will take all my energy & time.Plaining of Waking up, Practicing DSA, Knowing about crypto all fail. Now it is only execurtion & No planning at all. Planning will happen only when I am on the track.
 	=>"All plains which involves fantasising are bullshit".	
+
+
+7/12
+Bhagwaan ne sab kuch diya, job, paisa, samman, sab kuch jo bhi mujhe chahiye tha. Ab itna ho gaya h ki mere paas do raaste hein abhi:
+	->In bediyon ko jo ab m vastra maan chuka hu, inko vastra hi samajhkar poori zindagi pehnu or ek aaraamprasth zindagi bitaoon.
+		-Jisme ghar gaadi paisa hoga. Har sunday kahin na kahin ka trip hoga. Bivi bache honge maa b maze m hogi. Jyaada dard nahi hoga kyuki zyaada kuch try bhi nahi karunga CP, DSA, and all utna hi karunga jitna ho sake.
+
+		-Yaa poori jaan lagake dheere dheere easy se start karunga par roz 4 ghante DSA ko dene honge and y 4 ghante poore productive hour honge din ke.
+		-Isme itna moz nahi kar paaunga mami k saath b zyaada time nahi reh paaunga subah ki dhoop with chai bhi nahi le paaunga.
+		-Bass ek hi cheez mere liye important hogi wo h sirf DSA, CP Dev to saath saath m hoti hi rahegi.
+		-Worst Case: kahin selection nahi hui to gam to rahega ki agar yahi rehna tha to pehle se hi poora enjoy karke chalna tha. Itna time agar sansaarik point of view se dekhkein to waste hi gya. Lekin 	dimaag to pakka sharp ho gaya hoga. Agar m wide thinking m maar khaata hu to meri deep thinking kaafi zyaada strong ho gyi hogi tab tak.
+			3saal saving = 12Lac Rs.
+			Time tabel:
+			10:00 - 06:30 sleep(8.5hr).
+			07:15 - 08:30 Plaining(1.25hr)
+			08:30 - 10:00 DSA2(1.5hr)
+			10:00 - 11:00 Rest(1hr)
+			11:00 - 01:00 Offiece1(3hrs)
+			01:00 - 02:00 Lunch(1hr)
+			02:00 - 05:00 Offiece2(3hrs)
+			05:00 - 07:00 Rest(2hrs)
+			07:00 - 09:00 Rest+Offiece3(2hrs)
+			Macros: 8.5 sleep, 1.5 DSA, 7 Offiece, 6 Non Working
+		
+		-Best Case: kareeb 18LPA, 1.2Lac monthly salary + extra 2Lac/year. Kareeb 14Lac/year saving +20% increment every year. Badi car, Badi zameen, trips p bina soche paisa kharch karna etc.
+		    3saal saving - 45Lac Rs. (More compounding)
+			Time tabel:
+			10:00 - 05:00 sleep(7hr).
+			05:30 - 07:30 DSA1(2hr)
+			08:00 - 10:00 DSA2(2hr)
+			10:00 - 11:00 Leftouts(1hr)
+			11:00 - 01:00 Offiece1(3hrs)
+			01:00 - 02:00 Lunch(1hr)
+			02:00 - 05:30 Offiece2(3.5hrs)
+			05:30 - 07:30 Rest(2hrs)
+			07:30 - 09:00 Offiece3(1.5hrs)
+			Macros: 7 sleep, 4 DSA, 8 Offiece, 3 Non Working
+		
+		I started skipping dinner, It adds approx 3hr(7-10) to my basket.
+		So it is my evening plan.
+		7:30 - 9:00 Offiece
+		9:00 - 10:00 DEV !-> offiece !-> DSA 
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 utube channels:-
